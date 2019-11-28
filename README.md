@@ -6,6 +6,7 @@
 [![Stars][stars-image]][stars-url]
 [![npm][npm-image]][npm-url]
 [![Changelog #212][changelog-image]][changelog-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgilesbentley%2Fsitespeed.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgilesbentley%2Fsitespeed.io?ref=badge_shield)
 
 
 [Website](https://www.sitespeed.io/) | [Documentation](https://www.sitespeed.io/documentation/sitespeed.io/) | [Changelog](https://github.com/sitespeedio/sitespeed.io/blob/master/CHANGELOG.md) | [Twitter](https://twitter.com/SiteSpeedio)
@@ -167,3 +168,7 @@ docker run --cap-add=NET_ADMIN --rm -v "$(pwd)":/sitespeed.io -e REPLAY=true -e 
 [changelog-url]: https://changelog.com/212
 [npm-image]: https://img.shields.io/npm/v/sitespeed.io.svg
 [npm-url]: https://npmjs.org/package/sitespeed.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgilesbentley%2Fsitespeed.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgilesbentley%2Fsitespeed.io?ref=badge_large)
